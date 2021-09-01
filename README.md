@@ -6,9 +6,10 @@
 
 # 使い方
 
-1. chmod +x (squoosh-bundleのファイルパス) で権限付与
-2. ターミナルで圧縮したい画像があるディレクトリに移動
-3. squoosh-bundleの実行
+1. npm i -g @squoosh/cli でsquoosh/cliをインストール
+2. chmod +x (squoosh-bundleのファイルパス) で権限付与
+3. ターミナルで圧縮したい画像があるディレクトリに移動
+4. squoosh-bundleの実行
 
 # 入力内容
 
